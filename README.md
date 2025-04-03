@@ -1,1 +1,1 @@
-# music_app
+# Melodify
